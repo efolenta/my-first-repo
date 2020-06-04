@@ -1,2 +1,3 @@
 Name: Eric
 Age: 30
+Favorite Color: Blue
